@@ -1,0 +1,17 @@
+body{
+    background-image: url("background.jpg");
+    position:fixed; 
+}
+
+.balloon {
+    position: absolute;
+}
+
+.balls {
+    position: absolute;
+    z-index: 10;
+}
+
+.container {
+    position: absolute;
+}
